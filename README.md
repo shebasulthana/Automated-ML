@@ -6,7 +6,8 @@ The app allows users to upload datasets, perform automated machine learning, and
 ## Here is the preview:
 ![preview1](https://github.com/user-attachments/assets/f6f2f52b-c622-4282-bfa9-1fe852b6b0bc)
 ![preview2](https://github.com/user-attachments/assets/09403496-3e1e-4392-b771-454ef7abcbd7)
-![preview3](https://github.com/user-attachments/assets/f6e3a564-a97d-406e-8a96-b7ea9143022c)
+![preview3](https://github.com/user-attachments/assets/57ac0744-6d91-4309-970b-2e9c8086f5c0)
+
 
 
 
