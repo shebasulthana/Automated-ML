@@ -25,4 +25,4 @@ The app allows users to upload datasets, perform automated machine learning, and
 For the full list of dependencies, please refer to the `requirements.txt` file.
 
 ## TO RUN: 
-'streamlit run app.py'
+` streamlit run app.py`
